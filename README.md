@@ -7,8 +7,7 @@ I want to develop an wonderful web site in the future. ^_^
 # install django env for ubuntu
   apt-get install python-django
 
-# sync db
-# modify setting.py
+#  modify setting.py then run
   python manager syncdb
 
 # start app
